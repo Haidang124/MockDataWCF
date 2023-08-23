@@ -1,0 +1,10 @@
+D:\2022\.NET\MockDataWCF\MockDataWCF\bin\MockDataWCF.dll.config
+D:\2022\.NET\MockDataWCF\MockDataWCF\bin\MockDataWCF.dll
+D:\2022\.NET\MockDataWCF\MockDataWCF\bin\MockDataWCF.pdb
+D:\2022\.NET\MockDataWCF\MockDataWCF\obj\Debug\MockDataWCF.csproj.AssemblyReference.cache
+D:\2022\.NET\MockDataWCF\MockDataWCF\obj\Debug\MockDataWCF.csproj.CoreCompileInputs.cache
+D:\2022\.NET\MockDataWCF\MockDataWCF\obj\Debug\MockDataWCF.dll
+D:\2022\.NET\MockDataWCF\MockDataWCF\obj\Debug\MockDataWCF.pdb
+D:\2022\.NET\MockDataWCF\MockDataWCF\bin\Newtonsoft.Json.dll
+D:\2022\.NET\MockDataWCF\MockDataWCF\bin\Newtonsoft.Json.xml
+D:\2022\.NET\MockDataWCF\MockDataWCF\obj\Debug\MockDataWCF.csproj.CopyComplete
